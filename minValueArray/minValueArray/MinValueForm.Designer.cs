@@ -1,6 +1,6 @@
-﻿namespace arrayMaxVal
+﻿namespace minValueArray
 {
-    partial class maxArrayForm
+    partial class frmMinValue
     {
         /// <summary>
         /// Required designer variable.
@@ -36,9 +36,9 @@
             // btnStart
             // 
             this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStart.Location = new System.Drawing.Point(82, 21);
+            this.btnStart.Location = new System.Drawing.Point(32, 7);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(102, 32);
+            this.btnStart.Size = new System.Drawing.Size(173, 37);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -46,31 +46,35 @@
             // 
             // lstArray
             // 
+            this.lstArray.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lstArray.FormattingEnabled = true;
-            this.lstArray.Location = new System.Drawing.Point(31, 59);
+            this.lstArray.ItemHeight = 16;
+            this.lstArray.Location = new System.Drawing.Point(16, 50);
             this.lstArray.Name = "lstArray";
-            this.lstArray.Size = new System.Drawing.Size(210, 199);
+            this.lstArray.Size = new System.Drawing.Size(203, 212);
             this.lstArray.TabIndex = 1;
             // 
             // lblOutput
             // 
             this.lblOutput.AutoSize = true;
-            this.lblOutput.Location = new System.Drawing.Point(92, 278);
+            this.lblOutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblOutput.Location = new System.Drawing.Point(12, 267);
             this.lblOutput.Name = "lblOutput";
-            this.lblOutput.Size = new System.Drawing.Size(35, 13);
+            this.lblOutput.Size = new System.Drawing.Size(51, 20);
             this.lblOutput.TabIndex = 2;
             this.lblOutput.Text = "label1";
             // 
-            // maxArrayForm
+            // frmMinValue
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(286, 326);
+            this.ClientSize = new System.Drawing.Size(242, 296);
             this.Controls.Add(this.lblOutput);
             this.Controls.Add(this.lstArray);
             this.Controls.Add(this.btnStart);
-            this.Name = "maxArrayForm";
-            this.Text = "Form1";
+            this.Name = "frmMinValue";
+            this.Text = "Min Value";
+            this.Load += new System.EventHandler(this.FrmMinValue_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
