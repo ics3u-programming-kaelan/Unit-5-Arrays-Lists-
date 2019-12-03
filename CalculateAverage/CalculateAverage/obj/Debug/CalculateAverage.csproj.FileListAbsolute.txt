@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.frmAverage.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.pdb
