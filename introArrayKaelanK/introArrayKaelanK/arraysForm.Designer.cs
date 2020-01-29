@@ -85,7 +85,6 @@
             this.Controls.Add(this.lstArray);
             this.Name = "frmArrays";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.ArraysForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
