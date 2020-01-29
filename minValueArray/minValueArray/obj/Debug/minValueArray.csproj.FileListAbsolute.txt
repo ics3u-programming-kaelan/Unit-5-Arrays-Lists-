@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\bin\Debug\minValueArray.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\bin\Debug\minValueArray.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\bin\Debug\minValueArray.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.frmMinValue.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 5 (Arrays & Lists)\minValueArray\minValueArray\obj\Debug\minValueArray.pdb
